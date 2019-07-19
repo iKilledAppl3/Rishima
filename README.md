@@ -1,7 +1,10 @@
 # Rishima
 iOS 13 volume HUD for iOS 11 - 12
-"For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
-For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works." Matthew 16:26-27 KJV.
+
+# GOD IS GOOD ALL THE TIME AND ALL THE TIME GOD IS GOOD!
+"And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away." Revelation 21:4 KJV.
+
+# WARNING!
 This code is released AS-IS! I HAVE NO INTENSIONS OF FIXING ANY BROKEN CODE!
 
 # Get in On Packix!
