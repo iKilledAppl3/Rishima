@@ -7,7 +7,9 @@ This code is released AS-IS! I HAVE NO INTENSIONS OF FIXING ANY BROKEN CODE!
 # Get in On Packix!
 
 [Rishima](https://repo.packix.com/package/com.ikilledappl3.rishima/) - Download this free tweak!
-Actually just get [13HUD] (https://repo.packix.com/package/muirey03.13hud) instead!
+
+# IGNORE THE ABOVE :P
+Actually just get [13HUD](https://repo.packix.com/package/com.muirey03.13hud) instead!
 
 ## Built With
 
