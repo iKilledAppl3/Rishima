@@ -1,0 +1,1 @@
+rm -rf .theos && rm -rf packages && find . -name '.DS_Store' -type f -delete && make do 

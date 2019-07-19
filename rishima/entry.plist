@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Rishima;
+	cell = PSLinkCell;
+	detail = RishimaListController;
+	icon = Rishima.png;
+	isController = 1;
+	label = Rishima;
+    };
+}

@@ -1,0 +1,10 @@
+Package: com.ikilledappl3.rishima
+Name: Rishima
+Depends: mobilesubstrate, ws.hbang.common, firmware (>=11.0)
+Conflicts: applebetas.ios.tweak.willow, es.ubikstyl.sonus12, org.fwdr.sonus, com.midkin.byebyehud, me.nepeta.flashyhud, com.lnx.aerify, com.ruler225.videohud, me.nepeta.brokenhud, com.ikilledappl3.switchhud
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Description: A port of the iOS 13 volume hud (based on the leaked screenshot)
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
